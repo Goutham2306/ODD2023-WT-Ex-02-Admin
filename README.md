@@ -1,10 +1,6 @@
 # Ex-02-Admin
 
 # AIM
-
-# Ex-02-Admin
-
-# AIM
 Create a Django website with five users.
 
 # Design Procedure
